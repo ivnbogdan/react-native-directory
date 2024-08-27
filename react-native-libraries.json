@@ -11751,9 +11751,7 @@
   {
     "githubUrl": "https://github.com/orkunkarakus/react-native-qr",
     "npmPkg": "react-native-qr",
-    "examples": [
-      "https://github.com/orkunkarakus/react-native-qr/tree/main/example"
-    ],
+    "examples": ["https://github.com/orkunkarakus/react-native-qr/tree/main/example"],
     "images": [
       "https://github.com/orkunkarakus/react-native-qr/blob/main/public/ios.png",
       "https://github.com/orkunkarakus/react-native-qr/blob/main/public/android.png"
@@ -11761,5 +11759,18 @@
     "ios": true,
     "android": true,
     "newArchitecture": true
+  },
+  {
+    "githubUrl": "https://github.com/aptabase/aptabase-react-native",
+    "npmPkg": "@aptabase/react-native",
+    "examples": [
+      "https://github.com/aptabase/aptabase-react-native/tree/main/examples/HelloWorldExpo",
+      "https://github.com/aptabase/aptabase-react-native/tree/main/examples/HelloWorldExpoRouter"
+    ],
+    "images": ["https://aptabase.io/_astro/iphone.8b681ff1_2gObIk.webp"],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true
   }
 ]
